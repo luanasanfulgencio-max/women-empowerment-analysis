@@ -54,4 +54,4 @@ Explorar o **Women Empowerment Index (WEI)** em 114 países, identificando padr�
 ## 🚀 Como Reproduzir
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com/<seu-usuario>/<nome-do-repo>.git
+    git clone https://github.com/luanasanfulgencio-max/women-empowerment-analysis.git
